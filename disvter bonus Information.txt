@@ -1,0 +1,22 @@
+AR	= Abottabad region
+AJR	= Azad jammu region
+BR	= Bahawalpur region
+DMR	= Dera murad jamali region
+FR	= Faislabad region
+HR	= hyderabad region
+KR	= Karachi region blues
+LR	= Larkana region
+QR	= Quetta region
+SR	= Sialkot region
+MR	= Multan region
+
+QG	= Quetta gladiator
+PZ	= Peshawar Zalmi
+IU	= Islamabad United
+MS	= Multan Sultan
+KK	= Karachi Kings
+LQ	= Lahore Qalanders
+
+TOTAL DOMESTIC TEAMS: 11
+TOTAL PSL TEAM: 06
+
